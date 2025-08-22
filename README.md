@@ -1,6 +1,6 @@
 # Cardiovascular Disease (CVD) Prediction System
 
-🫀 Live Demo On Streamlit -  https://cardiovascularprediction-jc78xmh2kjldht53ac2juf.streamlit.app/
+🫀 Live Demo On Streamlit - https://cardiovascularprediction-jc78xmh2kjldht53ac2juf.streamlit.app/
 
 
 This project is a machine learning system that predicts the likelihood of cardiovascular disease based on patient health data. The goal is to provide an early-warning tool that can help in identifying potential risks and supporting healthcare decisions.
